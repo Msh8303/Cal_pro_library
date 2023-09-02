@@ -39,7 +39,29 @@ Once installed, you can import the cal module from cal_pro to access its functio
 <li>cal.plot_y_z(): Create 2D plots of functions in the y-z plane.</li></ul>
 
 
-<h1>Collaborators: </h1>
+<h1>Collaborators Github Address: </h1>
 <a href="https://github.com/mosipamo">
   Mohammad Sina Parvizi Motlagh
 </a>
+<br>
+<a href="https://github.com/Msh8303">
+  Mohammad Amin Mohammadion Shabestari
+</a>
+<br>
+<a href="https://github.com/mohammadglinjani">
+  Mohammad Goleijani
+</a>
+<br>
+
+<hr>
+<h1>Collaborators Linkedin Address: </h1>
+<a href="https://www.linkedin.com/in/mohammad-sina-parvizi-957406283/">
+  Mohammad Sina Parvizi Motlagh
+</a>
+<br>
+<a href="https://www.linkedin.com/in/mohammadamin-shabestari-260a6b19a/overlay/contact-info/">
+  Mohammad Amin Mohammadion Shabestari
+</a>
+<br>
+
+<br>
