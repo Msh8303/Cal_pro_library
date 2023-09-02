@@ -13,7 +13,6 @@ or
 ### pip install cal_pro ==(version)
 
 
-
 # Getting Started
 
 Once installed, you can import the cal module from cal_pro to access its functions.
@@ -38,3 +37,9 @@ Once installed, you can import the cal module from cal_pro to access its functio
 <li>cal.plot_x_y(): Create 2D plots of functions in the x-y plane.</li>
 <li>cal.plot_x_z(): Create 2D plots of functions in the x-z plane.</li>
 <li>cal.plot_y_z(): Create 2D plots of functions in the y-z plane.</li></ul>
+
+
+<h1>Collaborators: </h1>
+<a href="https://github.com/mosipamo">
+  Mohammad Sina Parvizi Motlagh
+</a>
