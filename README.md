@@ -41,27 +41,33 @@ Once installed, you can import the cal module from cal_pro to access its functio
 
 <h1>Collaborators Github Address: </h1>
 <a href="https://github.com/mosipamo">
-  Mohammad Sina Parvizi Motlagh
+  Click here for Mohammad Sina Parvizi Motlagh Github
 </a>
 <br>
 <a href="https://github.com/Msh8303">
-  Mohammad Amin Mohammadion Shabestari
+  Click here for Mohammad Amin Mohammadion Shabestari Github
 </a>
 <br>
 <a href="https://github.com/mohammadglinjani">
-  Mohammad Goleijani
+  Click here for Mohammad Goleijani Github
 </a>
 <br>
 
 <hr>
 <h1>Collaborators Linkedin Address: </h1>
 <a href="https://www.linkedin.com/in/mohammad-sina-parvizi-957406283/">
-  Mohammad Sina Parvizi Motlagh
+  Click here for Mohammad Sina Parvizi Motlagh Linkedin
 </a>
 <br>
 <a href="https://www.linkedin.com/in/mohammadamin-shabestari-260a6b19a/overlay/contact-info/">
-  Mohammad Amin Mohammadion Shabestari
+  Click here for Mohammad Amin Mohammadion Shabestari Linkedin
 </a>
 <br>
 
 <br>
+<hr>
+<hr>
+
+<a href="https://pypi.org/project/cal-pro/0.1.4/">
+Click here for Cal_pro library on pypi 
+</a>
